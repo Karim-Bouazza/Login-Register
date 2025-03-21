@@ -1,0 +1,12 @@
+body {
+    background: whitesmoke !important;
+}
+
+.form,
+.result {
+    max-width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin: 10px auto;
+}

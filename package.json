@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "axios": "^1.7.9",
+    "bootstrap": "^5.3.3",
+    "env-cmd": "^10.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "react-bootstrap": "^2.10.9"
+  }
+}
